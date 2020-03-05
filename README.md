@@ -3,4 +3,4 @@ Destiny Web App made as a College project
 
 
 Version History:
-V0.01 - 4/3/20 😊
+V0.01 - 5/3/20 😊
